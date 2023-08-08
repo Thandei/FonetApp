@@ -42,7 +42,7 @@ Aşağıdaki basit adımları izleyerek projenizi bilgisayarınıza kurup incele
 
 1. Projeyi lokalinize çekin
    ```sh
-   git clone <Fonet deneme projesinin Github linki buraya gelecektir.>
+   git clone https://github.com/Thandei/FonetApp.git
    ```
 2. NPM paketlerini yükleyin
    ```sh
