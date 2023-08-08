@@ -51,7 +51,7 @@ Aşağıdaki basit adımları izleyerek projenizi bilgisayarınıza kurup incele
    
  * Lütfen Typescript bağlantılı yapıların bu süreçte projenize eklendiğinden emin olunuz.  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">yukarı çık</a>)</p>
 
 
 
